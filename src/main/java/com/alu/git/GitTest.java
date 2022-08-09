@@ -11,9 +11,6 @@ public class GitTest {
         System.out.println("push test");
         System.out.println("ssh push test");
         System.out.println("no token test");
-
-
-
-
+        System.out.println("pull test");
     }
 }
